@@ -3,13 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Instagram : [ImNotLostRu](https://www.instagram.com/imnotlostru/)\\
+Wordpress: [LifeStyle Blog](https://chumchurums.wordpress.com/)\\
+Youtube: [Vlogs & Videos](https://www.youtube.com/channel/UCe0xKv8b3GtEttj_v0TSbqQ)
