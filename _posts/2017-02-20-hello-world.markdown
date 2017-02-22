@@ -23,4 +23,4 @@ I googled so hard on how to set up a blog via Jekyll and GitHub. There was 2 pha
 Join me on my programming journey! I can be reached via discordapp.com <br>
 My **User name: Lisa J <br>
 ID #0092**
-Alternatively my lifestyle blog/Instagram/Youtube can be found on this blog's [about me page](http://localhost:4000/nycgirllearnstocode/about/)
+Alternatively my lifestyle blog/Instagram/Youtube can be found on this blog's [About me page](http://localhost:4000/nycgirllearnstocode/about/)
