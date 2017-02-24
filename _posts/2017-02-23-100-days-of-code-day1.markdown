@@ -6,3 +6,5 @@ categories:
 ---
 
 I've been hitting a wall lately and it might be due to lack of sleep. Started #100days of code challenge today to build up a habit of coding again. I had a nice streak going for almost a month before it unraveled but alas, try try again! A rocky start, just 20 minutes today. Practiced using debugger on chrome console. It's very useful to decipher how exactly a piece of code works. 
+
+I also keep getting an error on my github blog page where the sub path url keeps revertign to the old 1 and the content keeps going to the wrong sub path url and hence won't open
