@@ -14,7 +14,7 @@ I am starting with the fundamentals of web development: html, css and Javascript
 
 **Why are you learning to code?**
 
-Do you know that quote you can't make something from nothing? I feel like coding completely defies that in the way that in real life everything is tangible and can be touched and held, while for code, it's not tangible in the touching sense. Yet it is so powerful. I basically see coding/programming as a superpower because it's telling computers what to do. Computers are capable of doing more and more every year. It's the age of AI! I am learning to code because I want to change the world and code is capable of doing it by scale. Coding also makes me feel super empowered. I love creating things. I live for the "Yes!! My code worked/ Resolved the issue!!" moments.
+Do you know that quote you can't make something from nothing? I feel like coding completely defies that in the way that in real life everything is tangible and can be touched and held. While for code, you can't touch it with your hands but it is powerful beyond your imagination. I basically see coding/programming as a superpower because it can, and has changed the world. I'm learning to code because I want to contribute to coding for social good. Code is capable of doing it by scale.There's just something so magical about a group of people using their skills and collaborating together for a higher cause such as contributing to open source code projects for social good. Coding also makes me feel super empowered. I love creating things. I live for the "Yes!! My code worked/ Resolved the issue!!" moments.
 
  This blog took quite a while to set up!
 
