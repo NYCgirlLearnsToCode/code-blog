@@ -9,3 +9,8 @@ I've been hitting a wall lately and it might be due to lack of sleep. Started #1
 
 I also keep getting an error on my github blog page where the sub path url keeps reverting to the old 1 and the content keeps going to the wrong sub path url and hence won't open.
 Issue resolved. I believe you have to push a commit for the site to build properly.
+
+Realized my commits weren't showing on my contribution chart and googled around. Turns out it was pushing from local and changed the global commit setting to the email my github is under using:
+'git config --global user.email "youremail@mail.com'
+
+**tldr**: I spent the first day of #100daysofcode 20 mins coding and 40 minutes troubleshooting LOL
