@@ -30,6 +30,7 @@ var handlers = {
 	todoList.displayTodos();
 }
 };
+```
 
 "Object is called handlers because we want the methods on this object to handle different events(different clicks) so when the button is clicked we want this object to handle that event. We'll put the methods that handle different events in this object "
-- Gordon Zhu from watchandcode.com
+\- Gordon Zhu from watchandcode.com
